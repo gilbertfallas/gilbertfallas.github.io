@@ -3,9 +3,5 @@
 */
 
 .ImageContainer img {
-
-    max-width: 500px;
-    margin: auto;
-
     border: solid 2px #999;
 }
